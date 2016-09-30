@@ -5,7 +5,11 @@ Ingredients:
 500g de compote de pommes
 1 pate feuilletee pur beurre
 cannelle en poudre
+<<<<<<< HEAD
 4 pommes Pink Lady
+=======
+4 pommes Gala
+>>>>>>> alice
 
 Preparation:
 Tout melanger et cuire!
